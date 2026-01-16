@@ -1,1 +1,1 @@
-nothing
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mnwh0792-prog/99-nights-Hub/refs/heads/main/Prison%20Life"))()
